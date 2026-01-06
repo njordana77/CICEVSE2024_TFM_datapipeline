@@ -112,17 +112,5 @@ Outputs are written under:
 
 ---
 
-## Editable install (optional)
-
-You can run everything without installing the project. If you prefer an editable install (useful for notebooks or external scripts), run:
-
-```bash
-pip install -e .
-```
-
-This keeps your current imports (e.g. `from func_aux...`) working.
-
----
-
 ## License
 MIT (see `LICENSE`).
